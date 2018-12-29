@@ -90,5 +90,18 @@ else:
     da=salary*1.1
     gross_salary=hra+da+salary
     print("gross salary",gross_salary)
+
+
+#question number 20
+
+wow= lambda s:s.replace("a","#").upper()
+print(wow("He is a good boy"))
+
+
+#question number 2
+
+list=[55,44,22,10,6,100,600,7]
+print(max(list))
+print(min(list))
 '''
 
